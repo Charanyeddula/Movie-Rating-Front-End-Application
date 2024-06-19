@@ -8,11 +8,6 @@ This React application allows users to search and filter movies by title, rating
 - Filter movies by rating and genre.
 - Dynamically update the movie list based on search and filter criteria.
 
-## Requirements
-
-- Node.js (>= 12.x)
-- npm (>= 6.x) or yarn (>= 1.22.x)
-
 ## Installation
 
 1. Clone the repository:
