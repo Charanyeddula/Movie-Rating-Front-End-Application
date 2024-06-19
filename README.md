@@ -1,19 +1,6 @@
 # Movie Search and Filter Application
 
-This is a React application that allows users to search and filter movies by title, rating, and genre.
-
-## Table of Contents
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Components](#components)
-- [Higher-Order Components](#higher-order-components)
-- [Best Practices](#best-practices)
-- [Contributing](#contributing)
-- [License](#license)
+This React application allows users to search and filter movies by title, rating, and genre.
 
 ## Features
 
@@ -52,5 +39,4 @@ This is a React application that allows users to search and filter movies by tit
 
 2. Open your browser and navigate to `http://localhost:3000` to see the application running.
 
-## Project Structure
 
